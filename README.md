@@ -1,6 +1,6 @@
-**Data Analyst Internship Offer - AtliQ Technologies**
+**Internship Offer @ AtliQ Technologies**
 
-**Week-1.**
+![Data analyst intern offer atliq](https://github.com/user-attachments/assets/1b9cf002-0042-48ea-9577-1762ffef2a09)
 
-**Task-1.**
-![Data analyst intern offer atliq](https://github.com/user-attachments/assets/a4a10a14-6fd0-4922-aa9b-ae2f1bc317a5)
+
+Excited to join AtliQ Technologies as a Data Analyst Intern, where I’ll collaborate with industry professionals to analyze data, build impactful reports, and uncover insights that support strategic business decisions. This remote internship offers hands-on experience along with the tools and guidance needed to grow in the data analytics space.
